@@ -54,7 +54,9 @@ To make the best use of algorithms in the method service, the patterns used are 
 To make the most of calling algorithms in the method service, you might want to keep in mind:
 
 - How to use asynchronous call patterns from your favoured language such as...
+
 ... Python https://realpython.com/async-io-python/
+
 ... R https://cran.r-project.org/web/packages/promises/vignettes/intro.html
 
 - How to use and deploy event listeners
