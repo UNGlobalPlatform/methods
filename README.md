@@ -3,11 +3,12 @@ Repository for the Methods service of UNGP
 
 
 # UN Global Working Group - Big Data 
-The UN Global Working Group on Big Data was created in 2014 for Official Statistics and the Sustainable Development Goals (SDGs) to explore the potential of new technologies and data sources. As part of the Working Group, we are developing the UN Global Platform for Data, Services and Applications. The aim of the platform is to provide a marketplace and infrastructure that UN member countries can access and use in their exploitation of big data. 
+The UN Global Working Group on Big Data was created in 2014 for Official Statistics and the Sustainable Development Goals (SDGs) to explore the potential of new technologies and data sources. As part of the Working Group, we are developing the UN Global Platform for Data, Services and Applications. 
 
-https://unstats.un.org/bigdata/
+The best way to browse the services provided by the platform is in the marketplace:
+https://marketplace.officialstatistics.org/
 
-As part of the UN Global Platform, we are prototyping a number of services for data scientists, developers and statisticians. These services are aimed primarily at government / public sector members, and their academia and private sector partners. If you are working on new data science applications or exciting data sources that can benefit the global community, do get in touch. These are not limited to what the statistical community has traditionally explored, but include, for example:
+If you are working on new data science applications or exciting data sources that can benefit the global community, do get in touch. These are not limited to what the statistical community has traditionally explored, but include, for example:
 - satellite imagery and indicators of pollution, water coverage, etc.
 - transport statistics using internet-of-things (IoT) 
 - private / public data partnerships on data sources such as social media, retail, employment
