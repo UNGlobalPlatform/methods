@@ -13,7 +13,10 @@ As part of the UN Global Platform, we are prototyping a number of services for d
 - private / public data partnerships on data sources such as social media, retail, employment
 
 # methods.officialstatistics.org
-We are partnering with Algorithmia to provide a methods & algorithms service. The aim of this service is for data scientists and statisticians around the world to be able to publish their statistical methods, algorithms and data science models, so that they can be reused at a global scale. 
+We are partnering with Algorithmia to provide a methods & algorithms service. The aim of this service is for data scientists and statisticians around the world to be able to publish their statistical methods, algorithms and machine learning models, so that they can be reused at a global scale. 
+
+Is the method service what you need? Check this short 50 second video:
+https://www.youtube.com/watch?v=-sW8E8psQI4
 
 The service allows you to:
 - write methods / algorithms (pretty much anything that you can turn into a callable function) using your own IDE or the one provided by us
