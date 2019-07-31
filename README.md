@@ -1,6 +1,5 @@
-# methods
-Repository for the Methods service of UNGP
-
+# UNGP method service - guide
+Guidance and documentation for the UN Global Platform method service.
 
 # UN Global Working Group - Big Data 
 The UN Global Working Group on Big Data was created in 2014 for Official Statistics and the Sustainable Development Goals (SDGs) to explore the potential of new technologies and data sources. As part of the Working Group, we are developing the UN Global Platform for Data, Services and Applications. 
