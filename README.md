@@ -16,7 +16,7 @@ As part of the UN Global Platform, we are prototyping a number of services for d
 We are partnering with Algorithmia to provide a methods & algorithms service. The aim of this service is for data scientists and statisticians around the world to be able to publish their statistical methods, algorithms and machine learning models, so that they can be reused at a global scale. 
 
 Is the method service what you need? Check this short 50 second video:
-https://www.youtube.com/watch?v=-sW8E8psQI4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-sW8E8psQI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The service allows you to:
 - write methods / algorithms (pretty much anything that you can turn into a callable function) using your own IDE or the one provided by us
