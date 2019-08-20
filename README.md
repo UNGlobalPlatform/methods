@@ -62,6 +62,10 @@ To make the most of calling algorithms in the method service, you might want to 
 - How to use and deploy event listeners
 https://methods.officialstatistics.org/developers/integrations/event_listeners
 
+# security
+
+How secure are the messages that are sent on the API call?
+So long as you use https:// endpoints, all API calls are encrypted at SHA 256 (see the certificate for https://api.methods.officialstatistics.org), and internally no data is passed out except by explicit outreach from an Algorithm (e.g. if it is grabs an image from the web). If you use Data Connectors these are secured by the infrastructure provider's standards. The data entering and exiting the algorithms are not logged, but metadata such as execution time are.
 
 # looking for testers
 You can explore the site at 
